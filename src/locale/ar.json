@@ -114,5 +114,6 @@
     "بريد إلكتروني غير صالح": "بريد إلكتروني غير صالح",
     "The requested record was not found": "السجل المطلوب غير موجود",
     "البحث عن صفحة": "البحث عن صفحة",
-    "Invalid verification code": "رمز التحقق غير صالح"
+    "Invalid verification code": "رمز التحقق غير صالح",
+    "more_details":"المزيد من التفاصيل"
 }

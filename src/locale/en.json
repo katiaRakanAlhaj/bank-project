@@ -115,5 +115,6 @@
     "بريد إلكتروني غير صالح": "Invalid Email",
     "The requested record was not found": "The requested record was not found",
     "البحث عن صفحة": "Search for a page",
-    "Invalid verification code": "Invalid verification code"
+    "Invalid verification code": "Invalid verification code",
+    "more_details":"more details"
 }
